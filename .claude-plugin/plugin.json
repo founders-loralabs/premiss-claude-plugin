@@ -9,6 +9,7 @@
     "url": "https://premissai.com"
   },
   "homepage": "https://premissai.com",
+  "documentationUrl": "https://app.premissai.com/integrations",
   "icon": "./assets/premiss.png",
   "privacyPolicyUrl": "https://premissai.com/legal/privacy",
   "license": "ISC",
