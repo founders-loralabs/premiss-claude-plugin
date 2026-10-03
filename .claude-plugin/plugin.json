@@ -9,6 +9,8 @@
     "url": "https://premissai.com"
   },
   "homepage": "https://premissai.com",
+  "icon": "./assets/premiss.png",
+  "privacyPolicyUrl": "https://premissai.com/legal/privacy",
   "license": "ISC",
   "keywords": [
     "finance",
