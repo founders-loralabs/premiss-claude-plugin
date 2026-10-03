@@ -1,0 +1,3 @@
+{
+  "mcpServers": { "premiss": { "type": "http", "url": "https://app.premissai.com/api/mcp/claude" } }
+}

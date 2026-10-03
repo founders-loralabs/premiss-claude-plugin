@@ -1,0 +1,23 @@
+{
+  "name": "premiss",
+  "displayName": "Premiss",
+  "version": "0.2.1",
+  "description": "Turn a trading idea into a strategy you can test and improve. Build custom Python strategies, backtest supported crypto, stock, and ETF markets, inspect the trades behind the results, and compare with buy and hold. Keep your code and research in a private Premiss workspace, then revisit and refine your ideas. A Premiss account is required. Historical results do not predict future returns.",
+  "author": {
+    "name": "LoraLabs",
+    "email": "founders@loralabs.co",
+    "url": "https://premissai.com"
+  },
+  "homepage": "https://premissai.com",
+  "license": "ISC",
+  "keywords": [
+    "finance",
+    "backtesting",
+    "trading-strategies",
+    "research",
+    "crypto",
+    "stocks",
+    "etfs"
+  ],
+  "repository": "https://github.com/founders-loralabs/premiss-claude-plugin"
+}
