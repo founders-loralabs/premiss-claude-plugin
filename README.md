@@ -34,7 +34,7 @@ https://app.premissai.com/api/mcp/claude
 
 Choose OAuth authentication and Claude's published identity where offered. Editing existing strategies requires edit permission. Reading paper reports requires separate paper-read permission. You can review or revoke access in [Premiss connected accounts](https://app.premissai.com/integrations/connections).
 
-This release supports Claude's hosted OAuth connection. Claude Code's local OAuth callback is not yet supported. A personal installation is available before public directory approval; this repository does not claim that approval has been granted.
+This release supports OAuth connections from hosted Claude and Claude Code. A personal installation is available before public directory approval; this repository does not claim that approval has been granted.
 
 ## Historical research and account boundaries
 
